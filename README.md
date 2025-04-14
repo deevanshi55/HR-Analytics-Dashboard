@@ -4,7 +4,7 @@
 
 
 ## Links:
-- [Go to My LinkedIn 🌐](https://www.linkedin.com/in/deevanshi-chauhan)
+- [Go to My LinkedIn 🌐](https://www.linkedin.com/in/deevanshi-chauhan-470834140/)
 - [Go to My Dashboard](https://public.tableau.com/app/profile/deevanshi.chauhan/viz/Project2_17443112467980/HRAnalyticsDashboard)
 
 ---
