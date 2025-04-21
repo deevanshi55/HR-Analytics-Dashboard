@@ -76,10 +76,31 @@ This dashboard enables HR professionals to:
 
 ---
 
+## 📌 Key Insights & Business Impact
+
+- 🔍 **Production Department Dominates Headcount & Terminations**  
+  The majority of employees belong to the Production department, which also shows the highest number of performance issues and terminations — a red flag for potential burnout or management challenges.
+
+- 🎯 **Employees in Their 30s & 40s Are Most Vulnerable to Attrition**  
+  The age distribution shows that most employees fall within the 30–50 range, which also corresponds with higher termination counts — this could indicate mid-career disengagement or lack of growth opportunities.
+
+- 👩‍💼 **Female Representation is Strong at 56.6%**  
+  The gender ratio leans slightly female, with balanced distribution across departments — a positive indicator for diversity and inclusion efforts.
+
+- 📉 **Most Terminations Due to “Still Employed” Status or Undefined Reasons**  
+  A large portion of terminations are labeled "N/A - Still Employed," suggesting either ongoing employment or data entry inconsistencies — which HR may need to clean or clarify for better tracking.
+
+- 😊 **Employee Satisfaction Averages 3.9/5, But Engagement Varies Widely**  
+  While satisfaction is relatively high, the engagement scatterplot shows that high satisfaction doesn’t always lead to high engagement — further investigation into motivation and leadership quality might help.
+
+- ⚠️ **Performance Score Disparities Noted Across Departments**  
+  Most "Needs Improvement" and "PIP" (Performance Improvement Plan) scores are from Production and IT/IS — possibly linked to workload, inadequate training, or unclear KPIs.
+
+---
+
 ## 📬 Let’s Connect
 
 - 💬 [LinkedIn](https://www.linkedin.com/in/deevanshi-chauhan-470834140/)
 - 💻 [GitHub](https://github.com/deevanshi55)
 
 ---
-
