@@ -1,81 +1,77 @@
-# 🚚 Supply Chain Dashboard (Tableau)
+ # HR Analytics Dashboard Using Tableau
 
-![Supply-Chain](https://raw.githubusercontent.com/deevanshi55/supply-chain-dashboard/main/Visuals/Supply_Chain.jpg)
+![HR-Analytics](https://github.com/user-attachments/assets/1e28aec1-5c41-4dd9-832f-7ee65da96ffd)
 
-## 🔗 Live Dashboard & Profile
 
-- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/deevanshi-chauhan-470834140/)
-- 💻 [GitHub Profile](https://github.com/deevanshi55)
-
----
-
-## 📌 Project Title
-
-**Supply Chain Management Dashboard – Optimizing Operations with Data-Driven Decisions**
+## Links:
+- [Go to My LinkedIn 🌐](https://www.linkedin.com/in/deevanshi-chauhan-470834140/)
+- [Go to My Dashboard](https://public.tableau.com/app/profile/deevanshi.chauhan/viz/Project2_17443112467980/HRAnalyticsDashboard)
 
 ---
 
-## 🧩 Project Overview
-
-This Tableau dashboard provides actionable insights across key areas of the supply chain, enabling faster, smarter decision-making by analyzing:
-
-- 🧾 **Inventory Levels by SKU**
-- 🚚 **Shipping Times by Carrier**
-- ⚙️ **Supplier Defect Rates**
-- 📈 **Product Sales Performance**
-- 💰 **Carrier-Wise Shipping Costs**
-
-The dashboard includes interactive filters for regions, categories, suppliers, and time periods.
+## PROJECT NAME:
+**HR Analytics: A Comprehensive Employee Data Analysis Project using Tableau Dashboard**
 
 ---
 
-## 🛠️ Tools & Technologies
+## ABOUT PROJECT:
+This HR Analytics Tableau project is designed to empower HR managers and business leaders with the ability to analyze and monitor employee data effectively, helping them make data-driven decisions related to **employee retention**, **development**, and **recruitment**.
 
-- **Tableau Desktop**
-- **SQL (for data transformation)**
-- **Excel (initial data cleaning)**
-- **Data Visualization Principles**
+The dashboard includes trendlines and target lines to help HR managers track progress toward reducing employee attrition. It features visualizations that show the distribution of employees and attrition rate based on gender, age, job satisfaction, and education field. The charts also include interactive filters that allow HR managers to drill down further into the data for detailed analysis.
 
 ---
 
-## 🔍 Steps Followed
-
-1. **Data Preparation** – Combined multiple Excel sheets into structured tables.
-2. **Data Cleaning** – Removed duplicates, standardized fields, and created calculated columns in Excel and Tableau.
-3. **Database Connection** – Connected Excel tables into Tableau via separate SQL joins.
-4. **Visualization & Dashboarding** – Built KPIs, bar charts, heatmaps, and line graphs to track logistics and supplier performance.
+## Technologies Used:
+- **Tableau** 📊  
+- **Excel** 👨‍💻  
+- **Statistics** 📜  
 
 ---
 
-## 📊 Dashboard Highlights
-
-![Dashboard](https://raw.githubusercontent.com/deevanshi55/supply-chain-dashboard/main/Visuals/Dashboard.png)
-
-Includes:
-
-- 📦 **Inventory Turnover Rates**
-- 🚚 **On-Time Delivery Percentages**
-- 🏭 **Supplier Defect Rates & Scores**
-- 💵 **Shipping Cost per Carrier**
-- 📍 **Geographic Distribution of Delays**
+## STEPS OVERVIEW:
+1. **Data Subset Collection** - Dataset collected from online sources.
+2. **Understanding the Data** - Familiarizing with the structure and relationships.
+3. **Loading Libraries** - Setting up necessary libraries.
+4. **Data Cleaning & Finding Missing Values** - Cleaning the dataset for analysis.
+5. **Data Visualization** - Visualizing the data through Tableau.
 
 ---
 
-## 🎯 Business Value
+## DATA CLEANING:
+1. **Open Dataset in Excel** - Make a copy for security purposes.
+2. **Remove Duplicates** - Ensure the dataset is clean and free of redundancy.
+3. **Adjust Formatting** - Ensure proper formatting for necessary columns.
+4. **Spell Check** - Correct any typos or errors.
+5. **Change Case** - Adjust case (Lower/Upper/Proper).
+6. **Trim Unwanted Spaces** - Remove unnecessary spaces.
+7. **Remove Null Values** - Eliminate null values if they won't impact results.
+8. **Find & Replace** - Standardize the data where needed.
+   
+---
 
-This dashboard empowers supply chain teams to:
+## DASHBOARD:
+**HR Analytics Dashboard**  
+The dashboard is designed to provide a comprehensive view of employee-related metrics, trends, and insights, helping HR professionals make informed decisions.
 
-- Track stock health and avoid over/understocking
-- Improve vendor and carrier accountability
-- Identify high-performing suppliers and risky regions
-- Optimize shipping costs and timelines
-- Drive data-backed operational efficiency
+![Dashboard](https://github.com/user-attachments/assets/739d5823-5679-45bb-8599-e6f5f49d457a)
 
 ---
 
-## 📬 Let’s Connect
+## DASHBOARD OVERVIEW:
+The **HR Analytics Dashboard** project using Tableau is designed to provide insights into key metrics and trends related to human resource management. By utilizing various data analysis techniques and visualizations, HR professionals can uncover patterns in employee attrition, satisfaction, performance, and engagement. 
 
-- 💬 [LinkedIn](https://www.linkedin.com/in/deevanshi-chauhan-470834140/)
-- 💻 [GitHub](https://github.com/deevanshi55)
+The dashboard includes key metrics such as:
+- **Employee Turnover Rate**
+- **Headcount and Attrition Rates**
+- **Employee Engagement and Satisfaction**
+- **Job Satisfaction & Work-Life Balance**
+  
+Interactive filters allow HR managers to drill down by department, gender, age, job role, and more, providing them with a detailed view of their data.
+
+This dashboard also includes insights into **recruitment metrics**, such as time-to-fill and cost-per-hire, which are essential for managing the hiring process efficiently. It helps HR professionals make **data-driven decisions** that can improve employee retention and enhance organizational success.
 
 ---
+
+## **Connect with Me:**
+- [GitHub Profile 🧮](https://github.com/deevanshi55)
+- [LinkedIn 🤝](https://www.linkedin.com/in/deevanshi-chauhan-470834140/)
